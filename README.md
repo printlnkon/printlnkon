@@ -5,7 +5,9 @@
 ### 🛠️ Tech Stack
 
 **Frontend** `React.js` `Tailwind CSS` `Bootstrap` `Figma`
+
 **Backend** `Node.js` `PHP` `Supabase` `Firebase` `MongoDB` `PostgreSQL` `MySQL`
+
 **Tools** `Docker` `Git` `Premiere Pro` `Photoshop` `Illustrator`
 
 ---
