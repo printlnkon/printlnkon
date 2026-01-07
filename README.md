@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontAlign=50&fontAlignY=30&height=250&text=Hi,%20I'm%20Kalfontein&fontSize=50&desc=Aspiring%20Full-Stack%20Developer&descSize=15&descAlign=50&descAlignY=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=250&text=Hi,%20I'm%20Kalfontein!&fontSize=65&desc=Aspiring%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=45&animation=fadeIn" />
 </p>
----
 
 ### 🛠️ Tech Stack
 
-**Frontend & Design** `React.js` `Tailwind CSS` `Bootstrap` `Figma` `Photoshop` `Illustrator`
+**Frontend** `React.js` `Tailwind CSS` `Bootstrap` `Figma`
 
-**Backend & Database** `Node.js` `Express` `PHP` `Supabase` `Firebase` `MongoDB` `PostgreSQL` `MySQL`
+**Backend** `Node.js` `PHP` `Supabase` `Firebase` `MongoDB` `PostgreSQL` `MySQL`
 
-**Languages & Tools** `JavaScript` `Python` `C#` `Java` `Dart` `Docker` `Git`
+**Tools** `Docker` `Git` `Premiere Pro` `Photoshop` `Illustrator`
 
 ---
 
