@@ -1,8 +1,8 @@
-# Hi, I'm Kalfontein Cruz
+### Hi, I'm Kalfontein
 ### Aspiring Full-Stack Developer
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=printlnkon&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff" alt="Top Languages" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printlnkon&layout=compact)](https://github.com/printlnkon/github-readme-stats)
 </p>
 
 ---
