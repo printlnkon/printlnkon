@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=250&text=Hi,%20I'm%20Kalfontein!&fontSize=65&desc=Full-Stack%20Developer&descSize=20&descAlign=58&descAlignY=42&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=250&text=Hi,%20I'm%20Kalfontein!&fontSize=65&desc=Full-Stack%20Developer&descSize=20&descAlign=62&descAlignY=43&animation=fadeIn" width="100%" />
 </p>
 
 ### 🛠️ Tech Stack
