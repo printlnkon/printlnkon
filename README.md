@@ -1,5 +1,5 @@
-# 🚀 Hi, I'm Kalfontein Cruz
-### Full-Stack Developer | Creative Problem Solver
+# Hi, I'm Kalfontein Cruz
+### Aspiring Full-Stack Developer
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=printlnkon&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff" alt="Top Languages" />
@@ -33,8 +33,7 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=printlnkon&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=printlnkon&theme=vision-friendly-dark&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
