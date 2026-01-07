@@ -1,4 +1,4 @@
-### Hi, I'm Kalfontein
+# Hi, I'm Kalfontein
 ### Aspiring Full-Stack Developer
 
 <p align="left">
@@ -33,7 +33,7 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=printlnkon)](https://github.com/printlnkon/github-readme-stats)
+  ![printlnkon's GitHub stats](https://github-readme-stats.vercel.app/api?username=printlnkon&show_icons=true&theme=radical)
 </p>
 
 ---
