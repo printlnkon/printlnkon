@@ -1,23 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&fontAlign=50&fontAlignY=40&height=250&text=Kalfontein%20Cruz&fontSize=70&desc=Aspiring%20Full-Stack%20Developer&descSize=25&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontAlign=50&fontAlignY=30&height=250&text=Hi,%20I'm%20Kalfontein&fontSize=50&desc=Aspiring%20Full-Stack%20Developer&descSize=25&descAlignY=60&animation=fadeIn" />
 </p>
-
-### ⚡ About Me
-
-- 🔭 **Current Focus:** Building a scalable **React & Supabase** application.
-- 🌱 **Learning Path:** Mastering the **MERN Stack** and Cloud Architecture.
-- 🎨 **Design:** Passionate about UI/UX and creating seamless user journeys.
-- 📫 **Reach Me:** [kalfonteincruz@gmail.com](mailto:kalfonteincruz@gmail.com)
-- 📄 **Portfolio:** [View My Experience](https://drive.google.com/drive/folders/1MFzLLcoTBhBcgsYiw-mDQaE3F1iYwrmn?usp=sharing)
-
----
-
-### 📊 Statistics & Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=printlnkon&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=printlnkon&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&hide_border=true" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
