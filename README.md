@@ -5,9 +5,7 @@
 ### 🛠️ Tech Stack
 
 **Frontend** `React.js` `Tailwind CSS` `Bootstrap` `Figma`
-
 **Backend** `Node.js` `PHP` `Supabase` `Firebase` `MongoDB` `PostgreSQL` `MySQL`
-
 **Tools** `Docker` `Git` `Premiere Pro` `Photoshop` `Illustrator`
 
 ---
@@ -19,6 +17,6 @@
   <a href="https://github.com/printlnkon" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
-</p> -->
+</p>
