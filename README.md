@@ -1,7 +1,6 @@
-# Hi, I'm Kalfontein
-### Aspiring Full-Stack Developer
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&fontAlign=50&fontAlignY=40&height=250&text=Kalfontein%20Cruz&fontSize=70&desc=Aspiring%20Full-Stack%20Developer&descSize=25&descAlignY=60&animation=fadeIn" />
+</p>
 
 ### ⚡ About Me
 
@@ -13,16 +12,21 @@
 
 ---
 
+### 📊 Statistics & Activity
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=printlnkon&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=printlnkon&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&hide_border=true" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
-**Frontend & Design**
-`React.js` `Tailwind CSS` `Bootstrap` `Figma` `Photoshop` `Illustrator`
+**Frontend & Design** `React.js` `Tailwind CSS` `Bootstrap` `Figma` `Photoshop` `Illustrator`
 
-**Backend & Database**
-`Node.js` `Express` `PHP` `Supabase` `Firebase` `MongoDB` `PostgreSQL` `MySQL`
+**Backend & Database** `Node.js` `Express` `PHP` `Supabase` `Firebase` `MongoDB` `PostgreSQL` `MySQL`
 
-**Languages & Tools**
-`JavaScript` `Python` `C#` `Java` `Dart` `Docker` `Git`
+**Languages & Tools** `JavaScript` `Python` `C#` `Java` `Dart` `Docker` `Git`
 
 ---
 
@@ -32,4 +36,6 @@
 <a href="https://github.com/printlnkon" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
+</p>
