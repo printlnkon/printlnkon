@@ -1,14 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=250&text=Hi,%20I'm%20Kalfontein!&fontSize=65&desc=Aspiring%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=45&animation=fadeIn" width="100% />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=250&text=Hi,%20I'm%20Kalfontein!&fontSize=65&desc=Aspiring%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=45&animation=fadeIn" width="100%" />
 </p>
 
 ### 🛠️ Tech Stack
 
-**Frontend** `React.js` `Tailwind CSS` `Bootstrap` `Figma`
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-**Backend** `Node.js` `PHP` `Supabase` `Firebase` `MongoDB` `PostgreSQL` `MySQL`
+**Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools** `Docker` `Git` `Premiere Pro` `Photoshop` `Illustrator`
+**Tools**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ---
 
