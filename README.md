@@ -10,7 +10,7 @@
   <tr>
     <td>
       <img src="https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529" />
-      <img src="https://img.shields.io/badge/CSS-%238511FA.svg?&style=for-the-badge&logo=CSS&logoColor=White&style=flat-square" />
+      <img src="https://img.shields.io/badge/CSS-%238511FA.svg?style=for-the-badge&logo=CSS&logoColor=White&style=flat-square" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000&style=flat-square" />
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
