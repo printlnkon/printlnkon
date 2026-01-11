@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529" />
+      <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=f5f5f5" />
       <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS&logoColor=white" />
       <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=f5f5f5" />
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
