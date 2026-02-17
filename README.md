@@ -11,14 +11,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=f5f5f5" />
-      <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=f5f5f5" />
+      <!-- <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=f5f5f5" /> -->
+      <!-- <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS&logoColor=white" /> -->
+      <!-- <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=f5f5f5" /> -->
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge" />
+      <!-- <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" /> -->
+      <!-- <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge" /> -->
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -46,6 +46,6 @@
 </p>
 
 <!-- footer -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
-</p>
+</p> -->
