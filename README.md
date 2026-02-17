@@ -1,6 +1,6 @@
 <!-- header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=150&text=Hi,%20I'm%20Kalfontein!&fontSize=45&descSize=20&descAlign=68.5&descAlignY=43&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=120&text=Hi,%20I'm%20Kalfontein!&fontSize=40&descSize=20&descAlign=68.5&descAlignY=43&animation=fadeIn" width="100%" />
 </p>
 
 <!-- body -->
