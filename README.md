@@ -1,6 +1,6 @@
 <!-- header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=150&text=Hi,%20I'm%20Kalfontein!&fontSize=65&descSize=20&descAlign=68.5&descAlignY=43&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&fontColor=FAF9F6&fontAlign=50&fontAlignY=30&height=150&text=Hi,%20I'm%20Kalfontein!&fontSize=45&descSize=20&descAlign=68.5&descAlignY=43&animation=fadeIn" width="100%" />
 </p>
 
 <!-- body -->
@@ -32,6 +32,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
