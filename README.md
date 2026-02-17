@@ -4,7 +4,7 @@
 </p>
 
 <!-- body -->
-<h1 align="left">Tech Stacks</h1>
+<h1 align="center">Tech Stacks</h1>
 
 ###
 
