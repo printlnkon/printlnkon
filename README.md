@@ -1,2 +1,1 @@
-### Hey there, I'm Kon 👋
-> stay cloud level
+## Hey there, I'm Kon 👋
