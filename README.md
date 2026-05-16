@@ -1,1 +1,1 @@
-## Hey there, I'm Kon 👋
+## Hey there 👋
